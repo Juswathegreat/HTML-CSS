@@ -1,0 +1,23 @@
+body {
+    background: whitesmoke;
+}
+
+p {
+    color: blue;
+}
+div {
+    background-color: palevioletred;
+   width: 500px;
+   height: auto;
+}
+strong {
+    background: red;
+    color: green;
+}
+
+span {
+    color: yellow;
+    
+    font-size: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
