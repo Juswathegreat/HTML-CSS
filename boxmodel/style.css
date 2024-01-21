@@ -1,0 +1,38 @@
+body {
+    background-color: aquamarine;
+    color: white;
+    font-size: 25px;
+}
+
+h1 {
+    color: blue;
+    font-size: 70px;
+}
+
+p {
+    color: rgb(0,0,0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* The CSS box model */
+
+/* 
+    margin: empty space around my eLement
+    border: a border / stroke / around my eLement
+    paddding: empty spsace WITH backrgound around my eLement
+
+    ALL of these ADD on top of width & height
+ */
+
+.box {
+    background: pink;
+    width: 300px;
+
+    margin: 180px;
+    border: solid red 10px;
+    padding: 50px 20px  ;
+
+    /* 300px + 180px + 180px + 20px + 20px + 10px +10px = Total of 720 of width */
+    
+
+}
