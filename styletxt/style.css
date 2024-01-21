@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+
+
+    background-image: url(img/tree.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+   font-size: 25px;
+   font-weight: lighter;
+
+   color: #fff;
+
+   text-align:center;
+
+
+}
+
+h1 {
+
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 50px;
+    color: brown;
+
+}
+
+h2 {
+    margin-top: 0;
+    font-size: 35px;
+    color: aqua;
+}
+
+
+.one {
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    line-height: 1;
+    
+    
+}
+
+.two {
+    color: yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.three {
+    color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.four {
+    color: violet;
+    font-family: 'Times New Roman', Times, serif;
+}
