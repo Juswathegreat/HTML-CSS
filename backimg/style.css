@@ -1,0 +1,52 @@
+body {
+    background-color: aquamarine;
+
+    background-image: url(img/pen.webp);
+    background-size: cover;
+
+
+
+    color: white;
+    font-size: 25px;
+}
+
+h1 {
+    color: blue;
+    font-size: 70px;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.bottom {
+    color: black;
+}
+
+/* The CSS box model */
+
+/* 
+    margin: empty space around my eLement
+    border: a border / stroke / around my eLement
+    paddding: empty spsace WITH backrgound around my eLement
+
+    ALL of these ADD on top of width & height
+ */
+
+.box {
+    background: pink;
+
+    background-image: url(img/red.jpeg);
+   
+    background-size: cover;
+    
+
+
+   
+    margin: 100px;
+    padding: 200px;
+
+   
+
+}
