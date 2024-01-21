@@ -1,0 +1,33 @@
+body {
+    background-color: aquamarine;
+    color: white;
+    font-size: 25px;
+}
+
+h1 {
+    color: blue;
+    font-size: 70px;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    margin: 20px;
+} 
+
+#top-section {
+    background-color: blueviolet;
+    font-size: 40px;
+    
+}
+
+.intro {
+    color: orange;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.lowlight {
+    color: red;
+}
