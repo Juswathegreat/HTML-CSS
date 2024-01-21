@@ -1,0 +1,66 @@
+body {
+
+    background-image: url(img/sky.avif);
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    height: 100vh;
+
+    background-position: center;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    font-size: 25px;
+    color: green;
+
+
+}
+
+h1 {
+
+    margin-bottom: 5px;
+    color: orange;
+}
+
+h2 {
+
+    margin-top: 0;
+    margin-bottom: 10px;
+
+}
+
+p {
+    margin-top: 0;
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* If the link is not yet visited the color will still remain */
+
+a:link {
+    color: black;
+}
+/* visited is when you already visited or click the link it will change the color */
+
+a:visited {
+    color: chartreuse;
+}
+
+/* hover is when you point the curser in to links the color will change according of what color you put */
+
+a:hover { 
+
+    color: violet;
+}
+
+/* active is when you click and hold the curser it will change the color */
+
+a:active {
+    color: white;
+}
+
+
