@@ -5,57 +5,65 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
-
-    
-
-
 }
 
 h1 {
 
+    font-size:  45px; ;
     margin-bottom: 5px;
     color: orange;
 }
 
 h2 {
 
+    font-size: 40px;
     margin-top: 0;
     margin-bottom: 10px;
+    color: aqua;
 
 }
 
-p {
-    margin-top: 0;
+.intro {
+    color: blue;
+}
+
+.intro, p {
+    color: black;
+}
+
+.body-text {
     color: red;
+    background-color: darkgray;
+    padding: 50px;
 }
 
-a {
-    text-decoration: none;
+.body-text, .intro {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
 }
 
 
-/* If the link is not yet visited the color will still remain */
+  /* If the link is not yet visited the color will still remain 
 
 a:link {
     color: black;
 }
-/* visited is when you already visited or click the link it will change the color */
+visited is when you already visited or click the link it will change the color */
 
-a:visited {
+/* a:visited {
     color: chartreuse;
-}
-
-/* hover is when you point the curser in to links the color will change according of what color you put */
-
+} */
+/* 
+hover is when you point the curser in to links the color will change according of what color you put */ */
+/* 
 a:hover { 
 
     color: violet;
 }
 
-/* active is when you click and hold the curser it will change the color */
+active is when you click and hold the curser it will change the color */
 
-a:active {
+/* a:active {
     color: white;
-}
-
+}   */
 

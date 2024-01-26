@@ -1,0 +1,84 @@
+
+
+body {
+
+    background-image: url(img/black.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h1 {
+    color: red;
+
+}
+
+h2 {
+    color: aqua;
+}
+
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+.intro {
+    background-color: greenyellow;
+    margin: 20px;
+    padding: 20px;
+}
+
+.par {
+
+   padding: 20px;
+  
+
+}
+
+.one, .two {
+    color: black;
+    
+}
+
+ .body-text {
+    background-color: lavender;
+    margin: 20px;
+    padding: 20px;
+}
+
+.per {
+  
+   padding: 20px;
+   
+
+ 
+} 
+
+.three {
+    color: blue;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+
+a:hover,
+a:focus {
+    color: black;
+
+}
+
+.body-text a {
+    color: black;
+
+}
+
+.body-text a:hover {
+    color: pink;
+}
