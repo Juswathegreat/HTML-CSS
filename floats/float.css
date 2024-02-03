@@ -1,0 +1,71 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+
+    color: blue;
+    font-size: 50px;
+    margin: 0;
+}
+
+h2 {
+   margin: 0 0 20px ;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    float: left;
+    
+}
+
+.box1 {
+    background: pink;
+   
+  
+    
+}
+     
+.box2 {
+    background: red;
+    
+   
+}
+
+.box3 {
+    background: green;
+   
+    
+    
+}
+
+.box4 {
+    background:  orange;
+}
+
+.box5{
+    background: yellow;
+    clear:both ;
+}
+
+.box6 {
+    background: black;
+}
+
+.box7 {
+    background: gold;
+}
+
+.box8 {
+    background: blue;
+}
+
+.box9 {
+    background: cornflowerblue;
+}
+
+.box10 {
+    background: cadetblue;
+
+} 

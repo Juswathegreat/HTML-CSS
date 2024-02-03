@@ -1,0 +1,43 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+
+    color: blue;
+    font-size: 50px;
+    margin: 0;
+}
+
+h2 {
+   margin: 0 0 20px ;
+}
+
+img {
+    width: 30rem;;
+    height: auto;
+    
+} 
+
+p {
+    line-height: 1.4;
+}
+
+.red-box {
+    background-color: red;
+    float: left;
+}
+
+.blue-box {
+    background-color: blue;
+    float: right;
+}
+
+.red-box, .blue-box {
+    width: 500px;
+    margin-top: 0;
+}
+
+.first {
+    margin-bottom: 0;
+}
